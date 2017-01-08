@@ -1,0 +1,3 @@
+# typtScriptStudy
+
+typeScript study project.
