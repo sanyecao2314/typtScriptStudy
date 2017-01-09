@@ -1,0 +1,16 @@
+{
+  "name": "proj2",
+  "version": "1.0.0",
+  "description": "proj2",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm -v"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-typescript": "^3.1.4",
+    "typescript": "^2.1.4"
+  }
+}
